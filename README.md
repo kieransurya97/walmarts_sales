@@ -95,4 +95,7 @@ This project is licensed under the MIT License.
 Acknowledgments
 Data Source: Kaggle’s Walmart Sales Dataset
 Inspiration: Walmart’s business case studies on sales and supply chain optimization.
-<img width="1598" height="753" alt="walmart_project-piplelines" src="https://github.com/user-attachments/assets/02bc5435-bb2c-4689-bfd6-32015ca59031" />
+
+
+
+git clone <repo-url>
